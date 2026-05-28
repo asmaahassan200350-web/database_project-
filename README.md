@@ -3,7 +3,7 @@
 
 This project demonstrates the process of transforming an ERD into a fully implemented relational database using MySQL.
 It also includes database validation and testing scenarios to ensure data integrity and proper constraint implementation.
-
+------------------------------------------------------------------------------------------------------------------------------------------
 📌 Project Steps
 - Analyzed business requirements and database entities
 - Designed ERD using draw.io
