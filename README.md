@@ -33,6 +33,7 @@ It also includes database validation and testing scenarios to ensure data integr
 ------------------------------------------------------------------------------------------------------------------------------------------
 
   ✅  Testing Scope
+  
 - Primary Key validation
 - Foreign Key integrity testing
 - NOT NULL validation
@@ -44,12 +45,13 @@ It also includes database validation and testing scenarios to ensure data integr
 ------------------------------------------------------------------------------------------------------------------------------------------
   🐞 Sample Defect
   
-A sample bug report is included for a failed test case:
-Duplicate Primary Key allowed
+- A sample bug report is included for a failed test case:
+- Duplicate Primary Key allowed
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 🚀 How to Run
+
 1-Open MySQL Workbench
 2-Run SQL scripts in order:
 3-relational-database.sql File
