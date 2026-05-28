@@ -1,11 +1,11 @@
 # Database Design & SQL Testing Project
-📌 # Overview 
+📌 Overview 
 
 This project demonstrates the process of transforming an ERD into a fully implemented relational database using MySQL.
 It also includes database validation and testing scenarios to ensure data integrity and proper constraint implementation.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-📌Project Steps
+📌 Project Steps
 - Analyzed business requirements and database entities
 - Designed ERD using draw.io
 - Converted ERD into relational schema
@@ -17,7 +17,7 @@ It also includes database validation and testing scenarios to ensure data integr
   
 ------------------------------------------------------------------------------------------------------------------------------------------
 
- 📌Tools & Technologies
+ 📌 Tools & Technologies
 - MySQL
 - MySQL Workbench
 - draw.io
@@ -32,7 +32,7 @@ It also includes database validation and testing scenarios to ensure data integr
   
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-  ✅ Testing Scope
+  ✅  Testing Scope
 - Primary Key validation
 - Foreign Key integrity testing
 - NOT NULL validation
