@@ -53,8 +53,11 @@ It also includes database validation and testing scenarios to ensure data integr
 🚀 How to Run
 
 1-Open MySQL Workbench
-2-Run SQL scripts in order:
+
+2-Run SQL scripts in order
+
 3-relational-database.sql File
+
 4-Execute test queries if needed
 
 ------------------------------------------------------------------------------------------------------------------------------------------
